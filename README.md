@@ -1,1 +1,2 @@
 # color-detection-plc
+This project is a PLC ladder logic program for a color detection sorting system with save state functionality, developed using TIA Portal and simulated in Factory IO. It reads color sensor inputs, makes sorting decisions, and controls actuators to direct items while maintaining its state reliably after stops or power loss. Designed as part of my PLC training, it demonstrates practical automation skills including sensor integration, logical sequencing, and save state management.
